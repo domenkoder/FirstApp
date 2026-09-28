@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mobile_application">Mobile application!</string>
+    <string name="mobilna_aplikacija">Mobilna aplikacija!</string>
+    <string name="pritisni_me">Pritisni me!</string>
+    <string name="strinjam_se_z_pogoji_uporabe">Strinjam se z pogoji uporabe</string>
+    <string name="toast_message">My first Android Studio application!</string>
+</resources>
