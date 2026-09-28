@@ -39,7 +39,7 @@ An Android application developed for learning Android development concepts, UI c
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/FirstApp.git
+   git clone https://github.com/domenkoder/FirstApp.git
    ```
 2. **Open in Android Studio**:
    - Select **File > Open...** and choose the `firstapp` project directory.
